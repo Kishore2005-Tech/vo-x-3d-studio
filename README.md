@@ -12,7 +12,7 @@
 <div align="center">
 
 ### ✦ A showcase of real-depth web craftsmanship ✦
-*Every pixel moves. Every transition breathes. Every page tells a story.*
+**Every pixel moves. Every transition breathes. Every page tells a story.**
 
 </div>
 
