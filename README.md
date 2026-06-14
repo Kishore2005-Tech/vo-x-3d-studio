@@ -1,6 +1,6 @@
 # 🎬 Vox3D Studio
 
-> **Immersive 3D Animated Website — Freelance Client Project**
+> *Immersive 3D Animated Website — Freelance Client Project*
 
 [![Built With](https://img.shields.io/badge/built%20with-Three.js%20%2B%20GSAP-blueviolet?style=flat)]()
 [![Type](https://img.shields.io/badge/project-Freelance%20Client%20Work-FF4081?style=flat)]()
