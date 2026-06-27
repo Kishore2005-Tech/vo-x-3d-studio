@@ -173,7 +173,7 @@ CONTACT ────────────────────────
 
 This project was built on three design principles:
 
-1. Motion is meaning — Every animation communicates something. Nothing moves for decoration alone. Transitions guide the user's mental model of where they are in the experience.
+**1. Motion is meaning** — Every animation communicates something. Nothing moves for decoration alone. Transitions guide the user's mental model of where they are in the experience.
 
 **2. Depth creates reality** — True 3D layering (not CSS `transform: translateZ`) makes the interface feel physically real. The user's cursor, scroll, and viewport become controllers of a live scene.
 
