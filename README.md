@@ -42,7 +42,7 @@ Every navigation event triggers a **choreographed 3D transition sequence** — p
 ## 🌀 Animation & Motion System
 
 ### Page-to-Page Transitions
-- Full 3D **scene morphing** between routes — no hard cuts, no flashes
+- **Full 3D scene morphing** between routes — no hard cuts, no flashes
 - Camera flies through 3D space to arrive at the next page
 - Elements **dissolve, scale, rotate, and reassemble** in 3D on each transition
 - Custom **transition timeline engine** — every route has its own unique exit and entry choreography
