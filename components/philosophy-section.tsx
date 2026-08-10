@@ -11,7 +11,7 @@ const hex2rgb = (hex: string) => {
   const h = hex.replace("#", "")  
     return {
      r: parseInt(h.substring(0, 2), 16), 
-      
+     g: parseInt(h.substring(2, 4), 16), 
      
     }
   }
