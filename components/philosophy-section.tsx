@@ -12,7 +12,7 @@ function lerpColor(color1: string, color2: string, t: number): string {
     return {
       
       
-      b: parseInt(h.substring(4, 6), 16),
+     
     }
   }
   const c1 = hex2rgb(color1)
