@@ -8,7 +8,7 @@ import { useThemeGalleryStore, THEMES } from "./theme-gallery-section"
 
 function lerpColor(color1: string, color2: string, t: number): string {
 const hex2rgb = (hex: string) => {  
-    
+  const h = hex.replace("#", "")  
     return {
       
       
