@@ -48,7 +48,7 @@ export function PhilosophySection() {
     const bgColor = lerpColor("#E8E8E8", themeBgColor, colorT)
 
     
-    const block2Y = (0.65 - localP) * 250
+    
 
     return { block1Y, block2Y, bgColor, isVisible: true }
   }, [progress, section, showroom, themeBgColor])
