@@ -10,7 +10,7 @@ function lerpColor(color1: string, color2: string, t: number): string {
 const hex2rgb = (hex: string) => {  
   const h = hex.replace("#", "")  
     return {
-      
+     r: parseInt(h.substring(0, 2), 16), 
       
      
     }
