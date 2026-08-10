@@ -15,7 +15,7 @@ const hex2rgb = (hex: string) => {
      b: parseInt(h.substring(4, 6), 16),
     }
   }
-  
+  const c1 = hex2rgb(color1)
   
   const r = Math.round(c1.r + (c2.r - c1.r) * t)
   const g = Math.round(c1.g + (c2.g - c1.g) * t)
