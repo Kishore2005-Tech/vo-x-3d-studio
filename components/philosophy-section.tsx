@@ -7,7 +7,7 @@ import { useScrollStore, SCROLL_SECTIONS } from "@/lib/scroll-store"
 import { useThemeGalleryStore, THEMES } from "./theme-gallery-section"
 
 function lerpColor(color1: string, color2: string, t: number): string {
-  
+const hex2rgb = (hex: string) => {  
     
     return {
       
