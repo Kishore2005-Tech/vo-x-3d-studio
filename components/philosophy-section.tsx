@@ -15,7 +15,7 @@ function lerpColor(color1: string, color2: string, t: number): string {
      
     }
   }
-  const c1 = hex2rgb(color1)
+  
   const c2 = hex2rgb(color2)
   const r = Math.round(c1.r + (c2.r - c1.r) * t)
   const g = Math.round(c1.g + (c2.g - c1.g) * t)
